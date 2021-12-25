@@ -7,9 +7,15 @@
 .section{
     background-color: aqua;
     position: absolute;
-    left: 0px;
-    width: 100px;
-    border: 3px solid #3621ad;
+    left: 10px;
+    width: 150px;
+    height:200px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 0px
+    
+    solid #3621ad;
+
 }
 
 .box{
@@ -19,8 +25,9 @@
     width: 300px;
     border-radius: 5px;
     padding-left: 20px;
+    padding: 20px;
     padding-top: 20px;
-    margin-left: 150px;
+    margin-left: 200px;
     
     }
 
@@ -28,13 +35,16 @@
 .news{
     background-color: rgb(238, 217, 235);
     position: absolute;
-    right: 0px;
-    width: 100px;
+    right: 10px;
+    width: 150px;
+    height:200px;
+    padding:10px;
     border: 3px solid #73AD21;  
 }
 .center{
     text-align: center;
     border: 3px solid green;
+
 }
 
 .right{
@@ -51,3 +61,8 @@
     border: 3px solid #3621ad;
 }
 
+#footer{
+    position: absolute;
+
+    margin-top: 300px;
+}
