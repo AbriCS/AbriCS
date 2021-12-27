@@ -14,6 +14,11 @@ body {
     margin: 15px;
 }
 
+.container {
+width: 80%;
+margin: 0 auto;
+}
+
 .content {
     flex: 1 0 auto;
 }
@@ -22,26 +27,22 @@ body {
     height: 15%;
 }
 
-.nav {
-    display: inline;
+nav {
+    float: right;  
 }
 
-nav ul li {
-    display: inline;
+nav ul {
+    margin: 0%;
+    padding: 0%;
     list-style-type: none;
     font-size: 20px
 }
-.contentflow
 
-.even-coloumns {
-    display: flex;
-    flex-direction: column;
-}
-.even-coloumns {
-    flex-basis: 100%;
+nav li {
+    display: inline;
+    margin-left: 45px;
 }
 
-.col
 
 .header ul li {
     display: inline;
@@ -64,17 +65,28 @@ nav ul li {
 }
 
 .box{
-    background-color: rgb(47, 179, 6); font-style: normal white;
+    background-color: rgb(47, 179, 6);
     color: rgba(250, 246, 246, 0.986);
     position: relative;
     width: 300px;
     border-radius: 5px;
-    padding-left: 20px;
     padding: 20px;
-    padding-top: 20px;
     margin-left: 200px;
     
     }
+
+.boxed{
+    background-color: dodgerblue;
+    position: sticky;
+    width: 30ch;
+    border: 5px; 
+    padding: 20px; 
+    margin-left: 50px;
+}
+
+#boxed{
+    background-color: rgb(202, 135, 222);
+}
 
 
 .news{
@@ -108,6 +120,7 @@ nav ul li {
 
 .footer{
     flex-shrink: 0;
+    position: sticky;
     text-align: center;
     border: 3px solid green;
 }
