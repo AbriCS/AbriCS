@@ -42,11 +42,14 @@ nav {
     padding-right: 10ch;
     padding-bottom: 3px;
     padding-top: 2px;
+    padding-left: 40px;
     border: 2px solid brown;
+    margin-right: 25px;
 
 }
 
 nav ul {
+    background-color: aquamarine;
     margin: 0%;
     padding: 0%;
 }
