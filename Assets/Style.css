@@ -1,13 +1,16 @@
-
-body {
-    height: 100%;
-    margin: 0%;
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(241, 137, 9);
-    color: navy;
+html {
+    scroll-behavior: smooth;
 }
 
+body {
+    height: 150%;
+    margin: 110px auto 0 auto;
+line-height: 1.2;
+display:flex;
+flex-wrap: wrap;
+background-color: rgb(241, 137, 9);
+color: navy;
+}
 .skipnav-link {
     background-color: azure;
     margin-left: 5px; 
@@ -47,7 +50,7 @@ nav {
 }
 
 nav ul {
-    background-color: none
+    background-color: none;
     margin: 0%;
     padding: 0%;
 }
@@ -90,12 +93,89 @@ a:active {
     color: blue;
 }
 <!--the middle three box coloumns-->
+    
 
+.callout-container {
+    max-width: 1400px;
+        margin: 40px auto 0 auto;    
+    }
+    
+    .call-out {
+        padding: 20;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+        flex-basis: 30%;
+    }
+    
+    @media (min-width: 900px) {
+    .callout-container {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            justify-content: space-around;
+        }
+        }
+    
+    .call-out:nth-child(1) {background-color: #c0dbe2;}
+    .call-out:nth-child(2) {background-color: #cdf1c3;}
+    .call-out:nth-child(3) {background-color: #ccb9da;}
+    
+ 
+.banner {
+    height:400px;
+    max-width: 700px;
+    box-sizing: border-box;
+    margin: 40px auto 40px auto;
+    padding: 10px;
+    border: 20px;
+    background-color: #2a2a2a;
+    display: flex;  
+}
+
+.center-me {
+    color: white;
+   text-align: center;
+   font-size: 50px;
+    margin: auto;
+}
+
+    
+
+    .container {
+        
+        background: yellow;
+        border: 5px solid #990b47;
+        border-radius: 15px;
+        box-sizing: border-box;
+        height: 200px;
+        max-width: 700px;
+        align-items: center;
+        padding: 100px;
+        margin: 40px auto 40px auto;
+        }
+        
+        .form-row {
+            padding: 10px 0px;
+            display:flex;  
+        }
+        
+        .form-row label {
+            padding-right: 20px;
+            flex: 2;
+        }
+        
+        .form-row input {
+        display: flex;
+        
+        }
+        
+
+
+<!--do not know why figure will not be moved the footer disappears-->
 .figure{
     align-items: center;
     width: 100px;
 }
-
 
 
 .footer{
@@ -110,6 +190,3 @@ a:active {
     text-align: center;
 }
 
-.Back {
-
-}
