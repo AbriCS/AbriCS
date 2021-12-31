@@ -1,10 +1,10 @@
-<!DOCTYPE html5>
+<!doctype html5>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <meta name="abrics-portfolio-site" content="width=device-width, initial-scale=1.0">
+    <title>abrics-portfolio-site</title>
 <link rel="stylesheet" href="./Assets/Style.css">
 <link rel="stylesheet" href="./Assets/Image/">
 <link rel="stylesheet" href="./Assets/Dynamic-Style.js">
@@ -13,27 +13,23 @@
 <body>
 
 <header class="header">   
-<div><a class="skipnav-link" href="#callout">
+<div><a class="skipnavigation-bar" href="#callout">
         skip navigation</div>
 <div style='text-align: left; display:inline;'>
 <img class="img" style='vertical-align: middle;' src="./Assets/Image/JMC.png"  alt="picture of author" width="85" height="90"/>
 
 <nav>
     <ul>
-        <li><a href="https://abrics.github.io/Horiseon/"target="_blank">Portfolio</a></li>
-        <li><a href="https://abrics.github.io/Horiseon/"target="_blank">News</a></li>
+        <li><a href="https://abrics.github.io/Horiseon/"target="_blank" rel="noopener">Portfolio</a></li>
+        <li><a  href="#blog">News</a></li>
         <li><a href="mailto:abricsltd@gmail.com">Contact</a></li>
-        <div><name><h2 id="top">Jean McLeod</h2></name></div>   
-
+        <div class="name"><h2 id="top">Jean McLeod</h2></div>   
     </ul> 
 </nav>   
-
 </header>
 
 <main>
-   
-
-  
+    
 <div class="callout-container">
     <div class="call-out">
       <img class="imgright" style='vertical-align:middle;' src="./Assets/Image/github-social.png"  alt="Github gif" width="70" height="50"/>
@@ -48,16 +44,19 @@
     <div class="call-out">
   
       <div class="call-out:nth-child(2)">
-      <h4>Feature 2</h4>
-      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, eum.</p>
-    </div>
+      <h4>About Me</h4>
+      <p> I am a Mother, daughter, Nurse, Midwife and Operational Research Consultant. In my spare time I provide educational oportunity for hard to reach groups. Becoming a fully fledged coder will give the skills and confidence to code raspberry Pi and build tech.</div>
     </div>
   
     <div class="call-out">
       <div class="call-out:nth-child(3)">
-      <h4>Feature 3</h4>
-      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum voluptate vitae earum nisi labore perferendis.</p>
-    </div>
+      <h4 id="blog">Blog
+     <p>Wednesday 29 December 2021 @ 17:35.</p></h4>
+      <p> I have been watching FLEXBox tutorial by Brad 2016. Taken me 6 hours (in between meals LoL!!) to work through 20 minutes.
+        Writing a ReadMe file as I go and storing it on Git Desktop which needs to update when I sign out. I hope it does not loose it.
+        Really good video at getting me to unpick the code.
+        Found that the box background colour was not being picked up and discovered it was a missing colon. Urghhh!!</p>
+        </div>
     </div>
   
   </div>
@@ -86,9 +85,9 @@
 
 
     <footer class="footer">
-    <h6>&copy 2021</h6>
-    <div><a class="Back" href="#top">
-        <h5>Back to the Top</h5></div>
+    <h7>&copy 2021</h7>
+    <div><a href="#top">
+        <h7>Back to the Top</h7></div>
 
 </footer>
 </div>
