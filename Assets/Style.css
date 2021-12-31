@@ -3,8 +3,8 @@ html {
 }
 
 body {
-    height: 150%;
-    margin: 110px auto 0 auto;
+    height: 1250px;
+    margin: 130px auto 0 auto;
 line-height: 1.2;
 display:flex;
 flex-wrap: wrap;
@@ -22,8 +22,15 @@ color: navy;
     transform:translateY(0);
 }
 
-.img {
+.imgleft {
     float: left;
+    padding: 10px;
+    border: 25px;
+   
+}
+
+.imgright {
+    float: Right;
     padding: 10px;
     border: 25px;
     margin: 15px;
@@ -31,6 +38,7 @@ color: navy;
 
 .header{
     background-color: rgb(6, 156, 99);
+    padding-top: 10px;
     height: 15%;
     position: fixed;
     top: 0;
@@ -40,13 +48,11 @@ color: navy;
     border-bottom: 10px solid burlywood;
 }
 
-
 nav {
     display: flex;
     float: right;
     background-color: none; 
-    padding-right: 2ch;
-    
+    padding-right: 2ch;   
 }
 
 nav ul {
@@ -66,9 +72,7 @@ nav li {
     border: 3px solid navy;
     box-sizing: border-box;
     border-radius: 5px;
-    padding: 5px;
-
-    
+    padding: 5px;   
 }
 
 .header ul li {
@@ -110,7 +114,7 @@ a:active {
     @media (min-width: 900px) {
     .callout-container {
             display: flex;
-            align-items: flex-start;
+            align-items: stretch;
             justify-content: space-between;
             justify-content: space-around;
         }
@@ -128,6 +132,7 @@ a:active {
     margin: 40px auto 40px auto;
     padding: 10px;
     border: 20px;
+    border-style: groove;
     background-color: #2a2a2a;
     display: flex;  
 }
@@ -139,33 +144,37 @@ a:active {
     margin: auto;
 }
 
+#center {
+    text-align: center; 
+}
     
 
     .container {
-        
         background: yellow;
         border: 5px solid #990b47;
         border-radius: 15px;
         box-sizing: border-box;
-        height: 200px;
+        height: 170px;
         max-width: 700px;
         align-items: center;
-        padding: 100px;
+        padding: 20px;
         margin: 40px auto 40px auto;
         }
         
         .form-row {
-            padding: 10px 0px;
-            display:flex;  
+            padding: 15px 0px;
+            display:flex;
+            height: 30px;  
         }
         
         .form-row label {
-            padding-right: 20px;
-            flex: 2;
+            padding-right: 2px;
+            flex: 1;
         }
         
         .form-row input {
-        display: flex;
+        flex: 2;
+        
         
         }
         
