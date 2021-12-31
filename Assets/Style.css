@@ -11,7 +11,7 @@ flex-wrap: wrap;
 background-color: rgb(241, 137, 9);
 color: navy;
 }
-.skipnavigation-bar {
+.skipnav-link {
     background-color: azure;
     margin-left: 5px; 
     transform: translateY(-120%);  
@@ -196,5 +196,11 @@ a:active {
     width: 100%;
     border-top: 10px solid burlywood;
     text-align: center;
+}
+
+
+
+.back-to-top {
+    background: none;
 }
 
