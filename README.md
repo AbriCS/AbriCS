@@ -1,4 +1,4 @@
-### Hi, I'm Jean! 
+# Hi, I'm Jean! 
 
 ## About Me
 
@@ -27,31 +27,29 @@ Javascript, HTML, CSS...
 ## Currently learning
 
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+Html: [shields.io](https://shields.io/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mU6anWqZJcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
 ## Project Title
 A description of my project
 
-# Screenshots
+## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-# Authors
+### Authors
 - [@katherinepeterson](https://www.github.com/octokatherine)
 
-# Acknowledgements
+### Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
