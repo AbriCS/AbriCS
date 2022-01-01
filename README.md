@@ -1,27 +1,26 @@
 # Hi, I'm Jean! 
 
 ## About Me
+Joined Birmingham Bootcamp in December 2021.
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+-Javascript, -HTML, -CSS...
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on creating a responsive website.
 
-🧠 I'm currently learning...
+🧠 I'm currently learning Html, CSS and Javascript.
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on anything Code.
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help with understanding Javascript.
 
-💬 Ask me about...
+💬 Ask me about keeping Hydrated.
 
-📫 How to reach me...
+📫 How to reach me at Birmingham Code Bootcamp.
 
-😄 Pronouns...
 
-⚡️ Fun fact...
-
+⚡️ Fun fact - I love gardening.
 
 
 ## Currently learning
@@ -32,8 +31,8 @@ Html: [shields.io](https://shields.io/)
 
 
 
-## Project Title
-A description of my project
+## Portfolio Project 
+This project is the second bootcamp homework to consolidate learning in week 2.A description of my project
 
 ## Screenshots
 
@@ -42,12 +41,12 @@ A description of my project
 
 
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ### Authors
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@AbriCS](https://www.github.com/AbriCS)
 
 ### Acknowledgements
 
