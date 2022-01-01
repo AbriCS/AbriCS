@@ -25,8 +25,7 @@ color: navy;
 .imgleft {
     float: left;
     padding: 10px;
-    border: 25px;
-   
+    border: 25px;   
 }
 
 .imgright {
@@ -36,7 +35,9 @@ color: navy;
     margin: 15px;
 }
 
-
+h2 {
+    text-align:center
+}
 .header{
     background-color: rgb(6, 156, 99);
     padding-top: 10px;
