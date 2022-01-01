@@ -3,8 +3,8 @@ html {
 }
 
 body {
-    height: 1300px;
-    margin: 130px auto 0 auto;
+    height: 140%;
+    margin: 10% auto 0 auto;
 line-height: 1.2;
 display:flex;
 flex-wrap: wrap;
@@ -12,10 +12,15 @@ background-color: rgb(241, 137, 9);
 color: navy;
 }
 .skipnav-link {
-    background-color: azure;
+    background-color: rgb(6, 156, 99);
     margin-left: 5px; 
     transform: translateY(-120%);  
     font-size: 50%;
+    font-style: italic;
+    font-weight: lighter;
+    font:xx-small;
+    text-decoration-color:rgb(6, 156, 99); 
+    
 }
 
 .skipnav-link:focus {
@@ -41,8 +46,8 @@ h2 {
 .header{
     background-color: rgb(6, 156, 99);
     padding-top: 10px;
-    height: 17%;
-    position: fixed;
+    height: 12%;
+    position:fixed;
     top: 0;
     z-index: 2;
     width: 100%;
@@ -147,6 +152,7 @@ a:active {
    text-align: center;
    font-size: 50px;
     margin: auto;
+    display: flex;
 }
     
 
