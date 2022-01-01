@@ -24,16 +24,16 @@ Joined Birmingham Bootcamp in December 2021.
 
 
 ## Currently learning
-
+How to create websites and flexbox. Soon to be learning Javascript.
 
 
 
 ## Portfolio Project 
-This project is the second bootcamp homework to consolidate learning in week 2.A description of my project
+This project is the second bootcamp homework to consolidate learning in week 2. 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="./Assets/Image/Portfolio-page" alt="Picture of Portfolio Website Page"/>
 
 
 
