@@ -3,7 +3,7 @@
 ## About Me
 Joined Birmingham Bootcamp in December 2021.
 
-## Other Common Github Profile Sections
+## Github Profile
 👩‍💻 I'm currently working on creating a responsive website.
 
 🧠 I'm currently learning Html, CSS and Javascript.
@@ -30,12 +30,10 @@ How to create websites and flexbox. Soon to be learning Javascript.
 This project is the second bootcamp homework to consolidate learning in week 2. 
 
 ```
-
 ## Screenshots
 
-<img src="./Assets/Image/Porfolio-page.jpeg" alt="Picture of Portfolio Website Page" width="70" height="50"/>
-
-
+[img] src=("./Assets/Image/JMC.png")  alt="picture of author" width="85" height="90"
+                                                                                                                                                                                                                                                                                                                                                                                                                               
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -49,7 +47,11 @@ This project is the second bootcamp homework to consolidate learning in week 2.
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+ ```
 📫 Reach me at Birmingham Code Bootcamp.
+
+```
 
 
 
