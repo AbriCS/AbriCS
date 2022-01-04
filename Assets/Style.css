@@ -8,7 +8,7 @@ body {
 line-height: 1.2;
 display:flex;
 flex-wrap: wrap;
-background-color: rgb(241, 137, 9);
+background-color:none;
 color: navy;
 }
 .skipnav-link {
@@ -26,10 +26,15 @@ color: navy;
 }
 
 .imgleft {
-    float: left;
+    height: 60px;
+    min-width: 70px;
     padding: 10px;
-    border: 25px;   
+    border: 25px; 
 }
+.imgleft:hover {
+    transform:scale(2);
+}
+    
 
 .imgright {
     float: Right;
@@ -37,14 +42,19 @@ color: navy;
     border: 25px;
     margin: 15px;
 }
+.horizontal-menu {
+    display: flex;
+    justify-content: space-between;
+}
 
 h2 {
-    text-align:center
+    text-align:center;
+    display:flex
 }
 .header{
     background-color: rgb(6, 156, 99);
     padding-top: 10px;
-    height: 17%;
+    height: 16%;
     position:fixed;
     top: 0;
     z-index: 2;
@@ -53,7 +63,8 @@ h2 {
 }
 
 .name {
-    text-align: center;
+    font-size: larger;
+    
 }
 
 nav {
@@ -61,6 +72,17 @@ nav {
     float: right;
     background-color: none; 
     padding-right: 2ch;   
+}
+
+.nav-wrapper{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav-item {
+    background-color: #c0dbe2;
+    padding: 10px;
+    margin: 20px;
 }
 
 nav ul {
@@ -109,14 +131,15 @@ a:active {
 
 .callout-container {
     max-width: 1400px;
-        margin: 40px auto 0 auto;    
+        margin: 40px auto 10px auto;    
     }
     
     .call-out {
-        padding: 20;
+        padding: 10px 15px 10px 15px;
         box-sizing: border-box;
-        margin-bottom: 20px;
-        flex-basis: 30%;
+        margin-bottom: 2px;
+        margin-top: 20px;
+        flex-basis: 31%;
     }
     
     @media (min-width: 900px) {
@@ -137,7 +160,7 @@ a:active {
     height:400px;
     max-width: 700px;
     box-sizing: border-box;
-    margin: 10px auto 0px auto;
+    margin: 5px auto 2px auto;
     padding: 10px;
     border: 20px;
     border-style: groove;
@@ -158,15 +181,15 @@ a:active {
         border: 5px solid #990b47;
         border-radius: 15px;
         box-sizing: border-box;
-        height: 10%;
+        height: 8%;
         max-width: 700px;
         align-items: center;
-        padding: 20px;
+        padding: 10px;
         margin: 10px auto 40px auto;
         }
         
         .form-row {
-            padding: 5px 0px;
+            padding: 1px 0px;
             display:flex;
             height: 30px;  
         }
@@ -193,7 +216,7 @@ a:active {
 
 .footer{
     background-color: rgb(6, 156, 99);
-    height: 7%;
+    height: 6%;
     position: fixed;
     bottom: 0;
     z-index: 2;
