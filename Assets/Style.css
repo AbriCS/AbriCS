@@ -51,6 +51,7 @@ h2 {
     text-align:center;
     display:flex
 }
+
 .header{
     background-color: rgb(6, 156, 99);
     padding-top: 10px;
@@ -63,8 +64,7 @@ h2 {
 }
 
 .name {
-    font-size: larger;
-    
+    font-size: larger;   
 }
 
 nav {
@@ -78,11 +78,12 @@ nav {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+
 }
 .nav-item {
     background-color: #c0dbe2;
     padding: 10px;
-    margin: 20px;
+    margin: 10px;
 }
 
 nav ul {
@@ -175,6 +176,19 @@ a:active {
     margin: auto;
 }
     
+.portfolio {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 10px;
+ 
+}
+
+.projects {
+    height: 100px;
+    width:100px;
+    display:flex; 
+}
 
     .container {
         background: yellow;
@@ -201,14 +215,11 @@ a:active {
         
         .form-row input {
         flex: 2;
-        
-        
         }
         
 
-
 <!--do not know why figure will not be moved the footer disappears-->
-.figure{
+.figure {
     align-items: center;
     width: 100px;
 }
@@ -224,7 +235,6 @@ a:active {
     border-top: 10px solid burlywood;
     text-align: center;
 }
-
 
 
 .back-to-top {
