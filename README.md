@@ -20,10 +20,13 @@ Joined Birmingham Bootcamp in December 2021.
 ```
 
 ## Currently learning
-How to create websites and flexbox. Soon to be learning Javascript.
+How to create websites using flexbox. 
 
-## 🛠 Skills
--Javascript, -HTML, -CSS...
+
+
+## 🛠 Section of CSS
+
+[img] src=("./Assets/Image/Snippet-of-css-code.jpeg")  alt="A section of css code" width="150px" height="100px"
 
 ```
 ## Portfolio Project 
@@ -32,8 +35,8 @@ This project is the second bootcamp homework to consolidate learning in week 2 a
 ```
 ## Screenshots
 
-[img] src=("./Assets/Image/JMC.png")  alt="picture of author" width="85" height="90"
-                                                                                                                                                                                                                                                                                                                                                                                                                               
+Here is a snippet of flexbox coding
+[img] src=("./Assets/Image/Snippet-of-code.jpeg")  alt="A section of html code" width="150px" height="100px"                                                                                                                                                                                                                                                                                                                                                                                                                 
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)

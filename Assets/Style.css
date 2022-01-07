@@ -35,7 +35,6 @@ color: navy;
 
 h2 {
     text-align:center;
-    display:flex
 }
 
 .header{
@@ -77,7 +76,7 @@ a:link {
     color:black
 }
 a:visited {
-    color: hotpink;
+    color: burlywood;
 }
 
 a:hover {
