@@ -27,7 +27,7 @@ How to create websites and flexbox. Soon to be learning Javascript.
 
 ```
 ## Portfolio Project 
-This project is the second bootcamp homework to consolidate learning in week 2. 
+This project is the second bootcamp homework to consolidate learning in week 2 and can be found at https://abrics.github.io/AbriCS/
 
 ```
 ## Screenshots
