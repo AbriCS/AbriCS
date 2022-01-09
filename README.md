@@ -26,7 +26,8 @@ How to create websites using flexbox.
 
 ## 🛠 Section of CSS
 
-img  alt="A section of css code" width="150px" height="100px"
+![Section of CSS code](./assets/image/Snippet-of-css-code.jpeg)
+
 
 ```
 ## Portfolio Project 
@@ -37,7 +38,7 @@ This project is the second bootcamp homework to consolidate learning in week 2 a
 
 Here is a snippet of flexbox coding
 
-![Small example of code]  (./assets/image/Snippet-of-code.jpeg)
+![Small example of code](./assets/image/Snippet-of-code.jpeg)
                                                                                                                                                                                                                                                                                                                                           
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
