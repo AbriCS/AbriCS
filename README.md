@@ -37,7 +37,7 @@ This project is the second bootcamp homework to consolidate learning in week 2 a
 
 Here is a snippet of flexbox coding
 
-<img src=./assets/image/Snippet-of-code.jpeg alt="Small example of code"/>
+<img src="./assets/image/Snippet-of-code.jpeg" alt="Small example of code"/>
                                                                                                                                                                                                                                                                                                                                           
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
