@@ -20,7 +20,7 @@ Joined Birmingham Bootcamp in December 2021.
 ```
 
 ## Currently learning
-How to create websites using flexbox. 
+JavaScript and APIs. 
 
 
 
