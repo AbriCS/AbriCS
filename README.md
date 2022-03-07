@@ -4,23 +4,23 @@
 Joined Birmingham Bootcamp in December 2021.
 
 ## Github Profile
-👩‍💻 I'm currently working on creating a responsive website.
+👩‍💻 I'm currently developing my skills as a FullStack Developer.
 
-🧠 I'm currently learning Html, CSS and Javascript.
+🧠 Currently working with HTML, CSS, Javascript and Node.
 
-👯‍♀️ I'm looking to collaborate on anything Code.
+👯‍♀️ I'm looking to collaborate on any interesting coding project.
 
 🤔 I'm looking for help with understanding Javascript.
 
 ```
 💬 Ask me about keeping Hydrated.
 
-⚡️ Fun fact - I love gardening.
-
 ```
 
+⚡️ Fun fact - I have adopted my local Train Station.
+
 ## Currently learning
-JavaScript and APIs. 
+How to use SQL
 
 
 
@@ -30,8 +30,9 @@ JavaScript and APIs.
 
 
 ```
-## Portfolio Project 
-This project is the second bootcamp homework to consolidate learning in week 2 and can be found at https://abrics.github.io/AbriCS/
+Portfolio Project 
+This Portfolio ReadMe is regularly reviewed for updates. 
+Link address https://abrics.github.io/AbriCS/
 
 ```
 ## Screenshots
@@ -42,8 +43,19 @@ Here is a snippet of flexbox coding
                                                                                                                                                                                                                                                                                                                                           
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+</br>
+![GitHub last commit](https://img.shields.io/github/last-commit/AbriCS/Abrics?color=orange&logo=github&style=plastic)
+![node-current](https://img.shields.io/node/v/version?logo=node&style=plastic)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
+![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-.com-blue)
+![Trello](https://img.shields.io/badge/Trello-.com-Red)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![MyPortfolio](https://img.shields.io/badge/My_Portfolio-2022-orange)
 
 ### Authors
 - [@AbriCS](https://www.github.com/AbriCS)
