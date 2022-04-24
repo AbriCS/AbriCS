@@ -32,7 +32,7 @@ How to use SQL, Docker and Dbeaver
 
 ## Portfolio of Projects
 ``` 
-See https://abrics.github.io/AbriCS/ for updates.
+See (https://abrics.github.io/AbriCS/) for updates.
 
 ```
 ## Screenshots
