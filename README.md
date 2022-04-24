@@ -2,45 +2,44 @@
 
 ## About Me
 Software developer. Currently enrolled on a  Full Stack Coding Bootcamp which started in December 2021.
+Completed a scoping document for an NHS Trust, exploring digital inclusion and making recommendations for their strategy ahead.
 
 ## Github Profile
 👩‍💻 I'm currently developing my skills as a FullStack Developer.
 
 🧠 Working with HTML, CSS, Javascript and Node.
 
-👯‍♀️ Scrum Master of our recent collaborative project. Creating a timed game called 'Where are we'.
+👯‍♀️ Scrum Master on our recent collaborative project. Creating a timed game called 'Where are we'.
 
-🤔 I'm looking for help with understanding Javascript.
-
-```
-💬 Ask me about keeping Hydrated.
+🤔 Still looking for the right role.
 
 ```
+💬 Ask me what I love best about this coding bootcamp.
 
-⚡️ Fun fact - I have adopted my local Train Station.
+```
+
+⚡️ Fun fact - I love CSS.
 
 ## Currently learning
-How to use SQL
+How to use SQL, Docker and Dbeaver
 
 
 
 ## 🛠 Section of CSS
 
-![Section of CSS code](./assets/image/Snippet-of-css-code.jpeg)
+![Section of CSS code](/Assets/Image/Snippet-of-css-code.jpeg)
 
 
-```
-Portfolio Project 
-This Portfolio ReadMe is regularly reviewed for updates. 
-Link address https://abrics.github.io/AbriCS/
+## Portfolio of Projects
+``` 
+See https://abrics.github.io/AbriCS/ for updates.
 
 ```
 ## Screenshots
 
-Here is a snippet of flexbox coding
+Here is a snippet of flexbox coding.
 
-![Small example of code](./assets/image/Snippet-of-code.jpeg)
-                                                                                                                                                                                                                                                                                                                                          
+![Small example of code](/Assets/Image/Snippet-of-code.jpeg)                                                                                                   
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 </br>
