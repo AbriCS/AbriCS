@@ -1,14 +1,14 @@
 # Hi, I'm Jean! 
 
 ## About Me
-Joined Birmingham Bootcamp in December 2021.
+Software developer. Currently enrolled on a  Full Stack Coding Bootcamp which started in December 2021.
 
 ## Github Profile
 👩‍💻 I'm currently developing my skills as a FullStack Developer.
 
-🧠 Currently working with HTML, CSS, Javascript and Node.
+🧠 Working with HTML, CSS, Javascript and Node.
 
-👯‍♀️ I'm looking to collaborate on any interesting coding project.
+👯‍♀️ Scrum Master of our recent collaborative project. Creating a timed game called 'Where are we'.
 
 🤔 I'm looking for help with understanding Javascript.
 
