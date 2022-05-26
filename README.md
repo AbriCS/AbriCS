@@ -2,7 +2,7 @@
 
 ### Table of Contents
 * [About Me](#about-me)<br>
-* [Currently Working on](#what-is-happening-currently)<br>
+* [Currently Working On](#currently-working-on)<br>
 * [My Portfolio](#portfolio-of-projects)<br>
 * [Badges](#badges)<br>
 * [Author](#authors)<br>
@@ -25,10 +25,9 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 ```
 
-⚡️ Fun fact - I love CSS.
 
-## What is happening Currently
-         Studying for my Cloud Practitioner certification with AWS.
+## Currently Working On.
+         ⚡️ Studying for my Cloud Practitioner certification with AWS.
 
 ## Portfolio of Projects
 ``` 
