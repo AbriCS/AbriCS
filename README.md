@@ -1,47 +1,36 @@
 # Hi, I'm Jean! 
 
 ## About Me
-Software developer. Currently enrolled on a  Full Stack Coding Bootcamp which started in December 2021.
-Completed a scoping document for an NHS Trust, exploring digital inclusion and making recommendations for their strategy ahead.
+An Agile, Full-Stack Software Engineer with extensive experience in commercial, healthcare and education industries.
 
-## Github Profile
-👩‍💻 I'm currently developing my skills as a FullStack Developer.
+👩‍💻  Currently developing my expertise in AWS.
 
-🧠 Working with HTML, CSS, Javascript and Node.
+🧠  Working with Github, VScode, HTML, CSS, Javascript, Node and mySql.
 
-👯‍♀️ Scrum Master on our recent collaborative project. Creating a timed game called 'Where are we'.
+👯‍♀️  Scrum Master on two recent collaborative project. 
 
-🤔 Still looking for the right role.
+🤔  Still looking for the right role.
 
 ```
-💬 Ask me what I love best about this coding bootcamp.
+
+💬 Recent winner of a Woman in Tech Scholarship.
 
 ```
 
 ⚡️ Fun fact - I love CSS.
 
 ## Currently learning
-How to use SQL, Docker and Dbeaver
+         AWS
 
 
-
-## 🛠 Section of CSS
-
-![Section of CSS code](/Assets/Image/Snippet-of-css-code.jpeg)
 
 
 ## Portfolio of Projects
 ``` 
-See (https://abrics.github.io/AbriCS/) for updates.
-
+*[portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 ```
-## Screenshots
-
-Here is a snippet of flexbox coding.
-
-![Small example of code](/Assets/Image/Snippet-of-code.jpeg)                                                                                                   
+  
 ### 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 </br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbriCS/Abrics?color=orange&logo=github&style=plastic)
 ![node-current](https://img.shields.io/node/v/version?logo=node&style=plastic)
