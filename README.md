@@ -1,5 +1,13 @@
 # Hi, I'm Jean! 
 
+### Table of Contents
+* [About Me](#about-me)<br>
+* [Currently Working on](#currently-learning)<br>
+* [Portfolio of Works](#portfolio-of-projects)<br>
+* [Links](#🔗-links)<br>
+* [Author](#authors)<br>
+* [Acknowledgements](#acknowledgements)<br>
+
 ## About Me
 An Agile, Full-Stack Software Engineer with extensive experience in commercial, healthcare and education industries.
 
@@ -22,12 +30,9 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ## Currently learning
          AWS
 
-
-
-
 ## Portfolio of Projects
 ``` 
-*[portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
+* [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
 ```
   
 ### 🔗 Links
@@ -48,7 +53,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ### Authors
 - [@AbriCS](https://www.github.com/AbriCS)
 
-### Acknowledgement
+### Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
