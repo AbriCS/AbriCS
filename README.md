@@ -48,7 +48,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ### Authors
 - [@AbriCS](https://www.github.com/AbriCS)
 
-### Acknowledgements
+### Acknowledgement
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
