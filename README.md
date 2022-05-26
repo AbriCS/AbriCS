@@ -27,7 +27,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 
 ## Currently Working On.
-         ⚡️ Studying for my Cloud Practitioner certification with AWS.
+⚡️ Studying for my Cloud Practitioner certification with AWS.
 
 ## Portfolio of Projects
 ``` 
