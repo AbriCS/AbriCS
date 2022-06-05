@@ -4,8 +4,7 @@
 * [About Me](#about-me)<br>
 * [Currently Working On](#currently-working-on)<br>
 * [My Portfolio](#portfolio-of-projects)<br>
-* [Badges](#badges)<br>
-* [Author](#authors)<br>
+* [Author](#author)<br>
 * [Acknowledgements](#acknowledgements)<br>
 
 ## About Me
@@ -13,7 +12,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 👩‍💻  Currently developing my expertise in AWS.
 
-🧠  Working with Github, VScode, HTML, CSS, Javascript, Node and mySql.
+🧠  Working with Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
 👯‍♀️  Scrum Master on two recent collaborative project. 
 
@@ -30,16 +29,12 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ⚡️ Studying for my Cloud Practitioner certification with AWS.
 
 ## Portfolio of Projects
-``` 
-* [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abrics.github.io/AbriCS/)
-```
+ Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/AbriCS/)
+
   
-## Badges
-</br>
 
-[MyPortfolio](https://img.shields.io/badge/My_Portfolio-2022-orange)
 
-## Authors
+## Author
 - [@AbriCS](https://www.github.com/AbriCS)
 
 ## Acknowledgements

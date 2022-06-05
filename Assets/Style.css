@@ -109,6 +109,11 @@ a:active {
         margin-top: 30px;
         flex-basis: 31%;
     }
+
+    #portfolio {
+        border-radius: .2px solid black;
+        
+    }
    /*-----------MEDIA QUERIES MEDIUM---------------*/ 
     @media (min-width: 900px) {
     .callout-container {
