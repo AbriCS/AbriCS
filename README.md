@@ -10,26 +10,31 @@
 ## About Me
 An Agile, Full-Stack Software Engineer with extensive experience in commercial, healthcare and education industries.
 
-👩‍💻  Currently developing my expertise in AWS.
-
-🧠  Working with Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
-
-👯‍♀️  Scrum Master on two recent collaborative project. 
-
-🤔  Still looking for the right role.
-
 ```
+
 
 💬 Recent winner of a Woman in Tech Scholarship.
 
 ```
 
 
+👩‍💻  Currently developing my expertise in AWS and working on my React based Website.
+    Loving it!!
+
+👯‍♀️  Scrum Master on two recent collaborative project. 
+
+🤔  Looking for Project Manger/Product Owner/Site reliability role in a Tech enthused organisation, where I am valued and can add value.
+
+🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
+
+[Technical Stack Training](./assets/images/TechStack-todate.png)
+
+
 ## Currently Working On.
 ⚡️ Studying for my Cloud Practitioner certification with AWS.
 
 ## Portfolio of Projects
- Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/AbriCS/)
+ Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/Abri-CS/)
 
   
 
@@ -39,10 +44,10 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ Inspiration, code snippets, etc.
 
-
+- [awesome-readme](https://github.com/matiassingers/awesome-readme)
+- [Trilogy Bootcamp Resources](https://www.trilogyed.com)
+- [Online Tutorials](https://youtu.be/TQyOL1u10EI)
 
 
