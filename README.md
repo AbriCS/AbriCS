@@ -27,7 +27,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
-[Technical Stack Training](./assets/images/TechStack-todate.png)
+[Technical Stack Training](https://drive.google.com/file/d/1eWM3vAVkwo-LT_k8PoMVHxOLt39tB-Gf/view?usp=sharing)
 
 
 ## Currently Working On.
