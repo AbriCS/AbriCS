@@ -2,6 +2,7 @@
 
 ### Table of Contents
 * [About Me](#about-me)<br>
+* [Tech used](#technical-stack-training)<br>
 * [Currently Working On](#currently-working-on)<br>
 * [My Portfolio](#portfolio-of-projects)<br>
 * [Author](#author)<br>
@@ -27,7 +28,8 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
-[Technical Stack Training](https://drive.google.com/file/d/1eWM3vAVkwo-LT_k8PoMVHxOLt39tB-Gf/view?usp=sharing)
+## Technical-Stack-Training
+![A508B0D9-5FD0-45EA-BD2C-566BB1500EB5_1_102_o](https://user-images.githubusercontent.com/94865936/174456972-0bfa7fac-4671-45d5-a49b-835c0ff87682.jpeg)
 
 
 ## Currently Working On.
