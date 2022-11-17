@@ -18,8 +18,8 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ```
 
 
-👩‍💻  Currently developing my expertise in AWS and working on my React based Website.
-    Loving it!!
+👩‍💻  Currently developing my [She's Building and Loving it!!](https://media.giphy.com/media/GvSU8xa3RNDVFjWOZz/giphy.gif)
+   
 
 👯‍♀️  Scrum Master on two recent collaborative project. 
 
@@ -27,7 +27,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
-[Technical Stack Training](./assets/images/TechStack-todate.png)
+[Technical Stack Training](./Assets/Image/Techstack.png)
 
 
 ## Currently Working On.
@@ -41,6 +41,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 ## Author
 - [@AbriCS](https://www.github.com/AbriCS)
+- [email](mailto:devs@iteration50.io)
 
 ## Acknowledgements
 
