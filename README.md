@@ -18,7 +18,7 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ```
 
 
-👩‍💻  Currently building and loving it!!
+👩‍💻  Currently building !!
 
 👯‍♀️  Scrum Master on two recent collaborative project. 
 
