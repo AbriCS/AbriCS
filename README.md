@@ -2,7 +2,6 @@
 
 ### Table of Contents
 * [About Me](#about-me)<br>
-* [Tech used](#technical-stack-training)<br>
 * [Currently Working On](#currently-working-on)<br>
 * [My Portfolio](#portfolio-of-projects)<br>
 * [Author](#author)<br>
@@ -11,7 +10,7 @@
 ## About Me
 An Agile, Full-Stack Software Engineer with extensive experience in commercial, healthcare and education industries.
 
-👩‍💻  Currently developing my expertise in AWS.
+```
 
 
 💬 Recent winner of a Woman in Tech Scholarship.
@@ -28,22 +27,20 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
-## Technical-Stack-Training
-![A508B0D9-5FD0-45EA-BD2C-566BB1500EB5_1_102_o](https://user-images.githubusercontent.com/94865936/174456972-0bfa7fac-4671-45d5-a49b-835c0ff87682.jpeg)
+[Technical Stack Training](./assets/images/TechStack-todate.png)
 
 
 ## Currently Working On.
-⚡️ [I'm Building](https://media.giphy.com/media/GvSU8xa3RNDVFjWOZz/giphy.gif)
+⚡️ Studying for my Cloud Practitioner certification with AWS.
 
 ## Portfolio of Projects
- Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/AbriCS/)
+ Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/Abri-CS/)
 
   
 
 
 ## Author
 - [@AbriCS](https://www.github.com/AbriCS)
-- [email](mailto:admin@devs@iteration50.io)
 
 ## Acknowledgements
 
@@ -52,5 +49,6 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 - [awesome-readme](https://github.com/matiassingers/awesome-readme)
 - [Trilogy Bootcamp Resources](https://www.trilogyed.com)
 - [Online Tutorials](https://youtu.be/TQyOL1u10EI)
+
 
 
