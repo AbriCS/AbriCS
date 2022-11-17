@@ -18,23 +18,22 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ```
 
 
-👩‍💻  Currently  
+👩‍💻  Currently building and loving it!!
 
 👯‍♀️  Scrum Master on two recent collaborative project. 
 
-🤔  Looking for Project Manger/Product Owner/Site reliability role in a Tech enthused organisation, where I am valued and can add value.
+🤔  Looking for Projects where my transferable skills are valued and where I can add value.
 
 🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
 ![Technical Stack Training](./Assets/Image/Techstack.png)
 
 
-## Currently Working On.
+## Currently Working On?
+She's Building and Loving it!
 ⚡️ ![She's Building and Loving it!](https://media.giphy.com/media/GvSU8xa3RNDVFjWOZz/giphy.gif)
 
-<iframe src="https://giphy.com/embed/GvSU8xa3RNDVFjWOZz" width="480" height="270" frameBorder="0"  allowFullScreen></iframe>
 
-<p><a href="https://giphy.com/gifs/theblock-channel-9-the-block-2021-GvSU8xa3RNDVFjWOZz"></a>
    
 
 ## Portfolio of Projects
