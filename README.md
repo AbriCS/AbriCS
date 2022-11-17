@@ -10,7 +10,7 @@
 ## About Me
 An Agile, Full-Stack Software Engineer with extensive experience in commercial, healthcare and education industries.
 
-👩‍💻  Currently developing my expertise in AWS.
+👩‍💻  Currently growing my expertise in AWS.
 
 🧠  Working with Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
@@ -26,16 +26,17 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 
 ## Currently Working On.
-⚡️ Studying for my Cloud Practitioner certification with AWS.
+⚡️ [I'm Building](https://media.giphy.com/media/GvSU8xa3RNDVFjWOZz/giphy.gif)
 
 ## Portfolio of Projects
- Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/Abri-CS/)
+ Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/iteration50/)
 
   
 
 
 ## Author
 - [@AbriCS](https://www.github.com/AbriCS)
+- [email](mailto:admin@devs@iteration50.io)
 
 ## Acknowledgements
 
