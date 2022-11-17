@@ -28,12 +28,14 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 ![Technical Stack Training](./Assets/Image/Techstack.png)
 
-
+<br>
 ## Currently Working On?
+```
 She's Building and Loving it!
+```
 ⚡️ ![She's Building and Loving it!](https://media.giphy.com/media/GvSU8xa3RNDVFjWOZz/giphy.gif)
 
-
+<br>
    
 
 ## Portfolio of Projects
