@@ -26,11 +26,12 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 🧠  Tech Stack includes Github, VScode, HTML, CSS, Javascript, Node, Docker, mySql and React.
 
-[Technical Stack Training](./Assets/Image/Techstack.png)
+![Technical Stack Training](./Assets/Image/Techstack.png)
 
 
 ## Currently Working On.
-⚡️ She's Building and Loving it!!(<iframe src="https://giphy.com/embed/GvSU8xa3RNDVFjWOZz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theblock-channel-9-the-block-2021-GvSU8xa3RNDVFjWOZz">via GIPHY</a></p>
+⚡️ She's Building and Loving it!! 
+<iframe src="https://giphy.com/embed/GvSU8xa3RNDVFjWOZz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theblock-channel-9-the-block-2021-GvSU8xa3RNDVFjWOZz">via GIPHY</a></p>
    
 
 ## Portfolio of Projects
