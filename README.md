@@ -13,13 +13,12 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 ```
 
 
-💬 Recent winner of a Woman in Tech Scholarship.
+💬 Recent winner of a 'Woman in Tech' Scholarship.
 
 ```
 
 
-👩‍💻  Currently developing my [She's Building and Loving it!!](https://media.giphy.com/media/GvSU8xa3RNDVFjWOZz/giphy.gif)
-   
+👩‍💻  Currently  
 
 👯‍♀️  Scrum Master on two recent collaborative project. 
 
@@ -31,7 +30,8 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 
 ## Currently Working On.
-⚡️ Studying for my Cloud Practitioner certification with AWS.
+⚡️ She's Building and Loving it!!(<iframe src="https://giphy.com/embed/GvSU8xa3RNDVFjWOZz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theblock-channel-9-the-block-2021-GvSU8xa3RNDVFjWOZz">via GIPHY</a></p>
+   
 
 ## Portfolio of Projects
  Please see a selection of my earlier work at the [Deployed Portfolio Website.](https://abrics.github.io/Abri-CS/)
@@ -40,8 +40,8 @@ An Agile, Full-Stack Software Engineer with extensive experience in commercial, 
 
 
 ## Author
-- [@AbriCS](https://www.github.com/AbriCS)
-- [email](mailto:devs@iteration50.io)
+- [@AbriCS](https://www.iteration50.io)
+- [Get in Touch](mailto:devs@iteration50.io)
 
 ## Acknowledgements
 
