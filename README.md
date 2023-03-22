@@ -46,7 +46,7 @@ She's Building and Loving it!
 
 
 ## Author
-- [@AbriCS](https://www.iteration50.io)
+- [@AbriCS](https://abrics.github.io/Abri-CS/)
 - [Get in Touch](mailto:devs@iteration50.io)
 
 ## Acknowledgements
